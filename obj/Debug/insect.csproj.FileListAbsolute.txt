@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\insect\bin\Debug\insect.exe.config
+D:\cat32tw\Desktop\insect\bin\Debug\insect.exe
+D:\cat32tw\Desktop\insect\bin\Debug\insect.pdb
+D:\cat32tw\Desktop\insect\obj\Debug\insect.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\insect\obj\Debug\insect.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\insect\obj\Debug\insect.Form1.resources
+D:\cat32tw\Desktop\insect\obj\Debug\insect.Properties.Resources.resources
+D:\cat32tw\Desktop\insect\obj\Debug\insect.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\insect\obj\Debug\insect.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\insect\obj\Debug\insect.exe
+D:\cat32tw\Desktop\insect\obj\Debug\insect.pdb
